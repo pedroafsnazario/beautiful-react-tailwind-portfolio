@@ -29,7 +29,7 @@ const projects = [
         image: "/projects/project3.png",
         tags: ["React", "JavaScript", "Tailwind CSS"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/pedroafsnazario/beautiful-react-tailwind-portfolio",
     }
 ]
 
